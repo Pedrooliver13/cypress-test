@@ -10,10 +10,13 @@ $ git clone https://github.com/Pedrooliver13/cypress-test.git
 $ cd cypress-test
 
 # Install dependencies
-$ npm install ou yarn install
+$ npm install or yarn install
 
 # Run the app
-$ npm start ou yarn start
+$ npm start or yarn start
+
+# Run the tests
+$ npm cypress:open or yarn cypress:open
 
 ```
 ## :rocket: Technologies
